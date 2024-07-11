@@ -1,1 +1,1 @@
-Simple calcutor made with python and tkinter, port to executable using PyInstall, this was my fist project.
+Simple calcutor made with python and tkinter, port to executable using PyInstall, this was my first project and it was only tested in win64, It probably runs fine in other SOs but I can't be sure, would love some feeback on how it is running in other sistems.
